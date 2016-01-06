@@ -1,0 +1,26 @@
+.columns1 {
+  float: left;
+  width: 400px;
+  padding: 20px;
+  background-color: pink;
+}
+
+.columns2 {
+  float: left;
+  width: 400px;
+  padding: 20px;
+  padding-bottom: 38px;
+  background-color: brown;
+}
+
+img {
+  width: 300px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: grey;
+}
