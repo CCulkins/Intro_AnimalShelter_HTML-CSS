@@ -23,4 +23,19 @@ h1 {
 
 body {
   background-color: grey;
+  font-family: sans-serif;
 }
+
+.intro p {
+  border: 2px  solid black;
+  font-size: 1.2em;
+  padding: 4px;
+  font-weight: bold;
+}
+
+.columns1 p {
+font-style: italic;
+}
+ .columns2 p {
+font-style: italic;
+ }
