@@ -28,4 +28,4 @@ _CSS was used to style the page.
 
 ### License
 
-Copyright (c) 2016 **_Hillary Hintzen & Cassandra Culkins_**
+Copyright (c) 2016 **_Anna Lawley & Cassandra Culkins_**
